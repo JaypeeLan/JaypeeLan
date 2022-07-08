@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaypeeLan
 - 👀 I’m interested in becoming a frontend developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate new projects
 - 📫 jplaniran01@gmail.com
 
