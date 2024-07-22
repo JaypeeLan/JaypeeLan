@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaypeeLan
-- 👀 I’m a nid-level frontend engineer
+- 👀 I’m a mid-level - senior frontend engineer
 - Open to work
 - 📫 laniranjohnpault@gmail.com
 
